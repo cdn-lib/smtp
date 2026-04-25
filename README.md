@@ -44,7 +44,7 @@ A lightweight, ready-to-integrate PHP email kit built on top of [PHPMailer](http
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smtp.git
+git clone https://github.com/cdn-lib/smtp.git
 cd smtp
 ```
 
